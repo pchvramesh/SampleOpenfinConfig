@@ -1,0 +1,35 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "OpenfinPOC",
+        "description": "OpenFin POC",
+        "url": "http://localhost:3000",
+        "uuid": "qGraph-OpenFin",
+        "autoShow": true,
+        "defaultCentered": true,
+        "minWidth": 500,
+        "defaultWidth": 500,
+        "maxWidth": 500,
+        "minHeight": 90,
+        "defaultHeight": 90,
+        "maxHeight": 90,
+        "defaultTop": 10,
+        "defaultLeft": 10,
+        "resizable": true,
+        "frame": false
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "beta"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "Openfin POC",
+        "target": [
+            "desktop"
+        ],
+        "force": true
+    },
+    "splashScreenImage": "http://www.todaywalkins.com/Comp_images/Euclid.png"
+}
